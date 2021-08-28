@@ -1,4 +1,4 @@
-
+package day1;
 import java.util.Scanner;
 //Take name as input and print a greeting message for that name.
 public class Second {
