@@ -1,4 +1,4 @@
-##Day1
+## Day1
 
 1. Write a program to print whether a number is even or odd, also take input.
 2. Take name as input and print a greeting message for that name.
