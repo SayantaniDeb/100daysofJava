@@ -1,4 +1,4 @@
-package day1;
+package day_1;
 import java.util.Scanner;
 //Write a program to print whether a number is even or odd, also take input.
 public class First{

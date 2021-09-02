@@ -1,4 +1,4 @@
-package day1;
+package day_1;
 import java.util.Scanner;
 public class Third {
     //Write a program to input principle, time and rate (P, T, R) from user and find Simple Interest.

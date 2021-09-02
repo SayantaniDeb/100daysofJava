@@ -1,4 +1,4 @@
-package day1;
+package day_1;
 import java.util.Scanner;
 public class Fourth {
     //Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)

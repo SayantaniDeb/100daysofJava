@@ -1,4 +1,4 @@
-package day1;
+package day_1;
 
 import java.util.Scanner;
 
@@ -10,6 +10,7 @@ public class Sixth {
         float num= in.nextFloat();
         num= num/64;
         System.out.println("The amount in Dollars is " +num+ "$");
+        
 
     }
     
