@@ -19,6 +19,16 @@ all
 7.Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.
 8.Input a number and print all the factors of that number (use loops).
 https://leetcode.com/problems/divide-two-integers/
+## Day 3
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
 
 
 
